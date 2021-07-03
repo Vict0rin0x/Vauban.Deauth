@@ -21,6 +21,12 @@ Vauban.deauth is a part of Vauban, my school project. Vauban is planned to be a 
 
 ## Installation
 
+- Clone the github repo : 
+```
+git clone https://github.com/Victorhin0/Vauban.Deauth.git
+```
+
+
 - Install all librairies with requirements.txt : 
 ```
 pip install -r requirements.txt
