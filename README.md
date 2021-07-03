@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-#Bugs and problems : 
+# Bugs and problems : 
 
 If you have any problem about the script, let me know, i'll be happy to correct it!
 
