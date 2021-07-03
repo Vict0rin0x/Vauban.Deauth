@@ -1,0 +1,5 @@
+scapy==2.4.4
+pandas==1.1.5
+Eel==0.14.0
+pyrcrack==1.1.1
+rich==10.4.0
