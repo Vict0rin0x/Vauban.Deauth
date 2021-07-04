@@ -1,7 +1,14 @@
-# Vauban.Deauth - Dauthenticate everything, everyone, everywhere
-A little tool used to deauthenticate everyone in every network to capture handshake. Use it alongside airodump-ng
 
-Vauban.deauth is a part of Vauban, my school project. Vauban is planned to be a python program using scapy to generate cyber-attacks to test routers and equipments
+# Vauban.Deauth - Deathenticate everything, everyone and everywhere.
+
+Vauban.deauth is a part of Vauban, my cybersecurity project. Vauban is using scapy to generate cyber-attacks to test routers and equipments.
+
+This is the first version of a python-tool used to deauthenticate all clients in all network to capture handshake. 
+
+Use it alongside airodump-ng.
+
+All reamrks are wellcome !
+
 
 # Features : 
 
