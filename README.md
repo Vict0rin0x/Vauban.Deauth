@@ -1,5 +1,5 @@
 
-# Vauban.Deauth - Deathenticate everything, everyone and everywhere.
+# Vauban.Deauth - Deauthenticate everything, everyone and everywhere.
 
 Vauban.deauth is a part of Vauban, my cybersecurity project. Vauban is using scapy to generate cyber-attacks to test routers and equipments.
 
